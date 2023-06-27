@@ -5177,3 +5177,77 @@ html[dir=rtl] .adsense-contact-form .field-country-code .select-wrapper::after {
 .carousel-platform .previous-button {
     left: -4%
 }
+
+.solutions-hero-img--c39c6917b733b1668d16e76390204e37 {
+    background-image: url(../images/banner.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/banner.jpeg") 50% / cover fixed;
+}
+.solution-tab-hero-img--4bef25771b4781e5069fa1dc80b05ea4 {
+    background-image: url(../images/n3.webp);
+    background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/n3.webp") 50% / cover fixed;
+}
+.solution-tab-hero-img--52f23508a6e1e25affeea140484aa646 {
+    background-image: url(../images/n4.jpg);
+    background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/n4.jpg") 50% / cover fixed;
+}
+.logo-link img {
+    margin-right: 20px;
+    margin-top: 5px;
+    width: 35px;
+}
+.solution2_img{
+      width: 200px;
+    transform: translate(234px, 0px);
+}
+.footer-logo img{
+  width:40px;
+}
+.h-c-page.adsense-solution-hero {
+    background-position-x: right;
+    background-repeat: no-repeat;
+    background-size: 70% auto;
+    padding: 90px 0;
+}
+.hero-img--1989c63310dd0cd7dc7ddf52bcb1facb {
+      background-image: url(../images/banner1.jpeg);
+      background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/banner1.jpeg") 50% / cover fixed;
+      height: 100%;
+      padding: 1.5em;
+}
+.adsense-hero-container .adsense-hero-image, .adsense-hero-image-container .adsense-hero-image {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 760px;
+    max-width: none;
+}
+.h-c-grid.adsense-hero-content {
+    margin: 0 auto;
+    position: absolute;
+    top: 260px;
+    width: 100%;
+}
+.get-started-image, .reason-image {
+    display: block;
+    margin: 0 auto 22px;
+    max-width: 160px;
+    width: auto;
+}
+.benefit1_img {
+    width: 300px;
+    transform: translate(144px, 0px);
+}
+.benefit2_img {
+    width: 500px;
+    transform: translate(144px, 0px);
+}
+.benefit3_img{
+    width: 300px;
+    transform: translate(90px, 0px);
+}
+.solution-1_img{
+    width: 500px;
+    transform: translate(60px, 0px);
+}
+
+
