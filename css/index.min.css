@@ -5179,15 +5179,12 @@ html[dir=rtl] .adsense-contact-form .field-country-code .select-wrapper::after {
 }
 
 .solutions-hero-img--c39c6917b733b1668d16e76390204e37 {
-    background-image: url(../images/banner.jpeg);
     background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/banner.jpeg") 50% / cover fixed;
 }
 .solution-tab-hero-img--4bef25771b4781e5069fa1dc80b05ea4 {
-    background-image: url(../images/n3.webp);
     background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/n3.webp") 50% / cover fixed;
 }
 .solution-tab-hero-img--52f23508a6e1e25affeea140484aa646 {
-    background-image: url(../images/n4.jpg);
     background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/n4.jpg") 50% / cover fixed;
 }
 .logo-link img {
@@ -5235,19 +5232,22 @@ html[dir=rtl] .adsense-contact-form .field-country-code .select-wrapper::after {
 }
 .benefit1_img {
     width: 300px;
-    transform: translate(144px, 0px);
+    transform: translate(70px, 0px);
 }
 .benefit2_img {
-    width: 500px;
-    transform: translate(144px, 0px);
+    width: 350px;
+    transform: translate(247px, 0px);
 }
 .benefit3_img{
-    width: 300px;
-    transform: translate(90px, 0px);
+    width: 400px;
+    transform: translate(0px, 0px);
 }
 .solution-1_img{
-    width: 500px;
-    transform: translate(60px, 0px);
+    width: 400px;
+    transform: translate(21px, 0px);
+}
+.adsense-section-solutions{
+    margin-top: 60px;
 }
 
 
