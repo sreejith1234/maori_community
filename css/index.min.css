@@ -2587,14 +2587,6 @@ html[lang=zh-CN] .adsense-section-quote cite,html[lang=zh-TW] .adsense-section-q
     display: block;
     margin: 0 auto
 }
-
-.h-c-page.adsense-solution-hero {
-    background-position-x: right;
-    background-repeat: no-repeat;
-    background-size: 70% auto;
-    padding: 90px 0
-}
-
 @media (max-width: 1279px) {
     .h-c-page.adsense-solution-hero {
         background-size:78% auto;
@@ -5182,10 +5174,12 @@ html[dir=rtl] .adsense-contact-form .field-country-code .select-wrapper::after {
     background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/banner.jpeg") 50% / cover fixed;
 }
 .solution-tab-hero-img--4bef25771b4781e5069fa1dc80b05ea4 {
-    background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/n3.webp") 50% / cover fixed;
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .1)), url(../images/s2.png);
+    background-attachment: fixed;
 }
 .solution-tab-hero-img--52f23508a6e1e25affeea140484aa646 {
-    background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/n4.jpg") 50% / cover fixed;
+    background: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .1)),url("../images/s4.png");
+    background-attachment: fixed;
 }
 .logo-link img {
     margin-right: 20px;
@@ -5200,10 +5194,11 @@ html[dir=rtl] .adsense-contact-form .field-country-code .select-wrapper::after {
   width:40px;
 }
 .h-c-page.adsense-solution-hero {
-    background-position-x: right;
+    background-position: 75% 50%;
     background-repeat: no-repeat;
-    background-size: 70% auto;
+    background-size: 60% auto;
     padding: 90px 0;
+    height: 327px;
 }
 .hero-img--1989c63310dd0cd7dc7ddf52bcb1facb {
       background-image: url(../images/banner1.jpeg);
